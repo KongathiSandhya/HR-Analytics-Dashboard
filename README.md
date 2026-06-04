@@ -34,19 +34,9 @@ A comprehensive, multi-page Power BI analytics solution for workforce intelligen
 
 - **Tool:** Power BI Desktop  
 - **Language:** DAX, Power Query (M)  
-- **Dataset:** IBM HR Analytics Employee Attrition & Performance  
+- **Dataset:** HR Analytics Employee Attrition & Performance  
 - **Visuals used:** Bar, Donut, Pie, Waterfall, Scatter, Area, Stacked Bar, KPI Cards
 
 ---
 
-## 🚀 Getting Started
 
-```bash
-git clone https://github.com/your-username/hr-analytics-powerbi.git
-```
-
-Open `HR_Analytics.pbix` in Power BI Desktop. All four report pages load with interactive slicers for department, job role, age group, and gender.
-
----
-
-## 📁 Repository Structure
