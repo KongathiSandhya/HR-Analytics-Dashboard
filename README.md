@@ -4,8 +4,9 @@
 A comprehensive, multi-page Power BI analytics solution for workforce intelligence — covering salary, attrition, performance, and department-wise metrics across 1,470+ employee records.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![HR Analytics]("C:\Users\Sandhya\OneDrive\Documents\HR Analytics.pbix")
-![Dataset]("C:\Users\Sandhya\OneDrive\Documents\HR_Analytics.xlsx")
+![HR Analytics](https://img.shields.io/badge/HR%20Analytics-blueviolet?style=flat)
+![Dataset](https://img.shields.io/badge/IBM%20HR%20Dataset-informational?style=flat)
+
 
 ---
 
